@@ -4,3 +4,6 @@
 [submodule "web"]
 	path = web
 	url = git@github.com:oca/web.git
+[submodule "helpdesk"]
+	path = helpdesk
+	url = git@github.com:OCA/helpdesk.git
